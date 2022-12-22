@@ -1,0 +1,32 @@
+RewriteEngine On
+RewriteRule ^(.*)\.m3u8$ $1.php [L]
+RewriteRule ^(.*)\.mpd$ $1.php [L]
+RewriteRule ^(.*)\.ts$ $1.php [L]
+RewriteRule ^(.*)\.mp4$ $1.php [L]
+
+Options All -Indexes
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.+)$ $1.php [L]
+
+<Files "_chndata">  
+  Order Allow,Deny
+  Deny from all
+</Files>
+
+<Files "_isidata">  
+  Order Allow,Deny
+  Deny from all
+</Files>
+
+<Files "mylogs">  
+  Order Allow,Deny
+  Deny from all
+</Files>
+
+<Files "_andrid">  
+  Order Allow,Deny
+  Deny from all
+</Files>

@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^(.*)\.m3u8$ $1.php [L]
+RewriteRule ^(.*)\.mpd$ $1.php [L]
+RewriteRule ^(.*)\.ts$ $1.php [L]
+RewriteRule ^(.*)\.mp4$ $1.php [L]
