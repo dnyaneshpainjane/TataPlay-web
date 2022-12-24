@@ -1,7 +1,7 @@
 # Tata-Play-webplay
-<p align="center"><img src="https://images.firstpost.com/wp-content/uploads/2020/07/jio-tvplus-1280.jpg" width="180" height="100"></p>
+<p align="center"><img src="https://github.com/dnyaneshpainjane/Tata-Play-webplay/blob/main/favicon.ico" width="180" height="100"></p>
 
-<h1 align='center'>✯ JɪᴏTV Pʟᴀʏ ✯</h1>
+<h1 align='center'>✯ TATAPLAY ✯</h1>
 
 <!-- DO NOT EDIT FILE AND ADD YOU NAME HERE AND PUBLISH -->
 <!-- © 2021 TechieSneh -->
