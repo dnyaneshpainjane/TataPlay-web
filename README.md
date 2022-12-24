@@ -38,13 +38,13 @@ https://apkcow.com/ksweb-server-php-mysql-mod-apk/download/
   ```
 
 • Then Download This Zip Files<br>
- - JioTV Zip <br> ( https://github.com/mitthu786/TS-JioTV/blob/main/jiotvweb.zip?raw=true ) <br>
+ - TataPlay Zip <br> ( https://github.com/dnyaneshpainjane/Tata-Play-webplay/blob/main/TataPlay.zip?raw=true ) <br>
 
 • Locate & Extract all Files in LocalHost (Htdocs) Root Folder <br>
-• Put Your Mobile Number without +91 & Password in below Link <br>
+• Put Your login details and press Login <br>
 
 ```py
-http://localhost:8080/jiotvweb/login.php?user=NUMBER&pass=PASSWORD
+http://localhost:8080/TataPlay/login.php?user=NUMBER&pass=PASSWORD
 ```
 
 • Open KSWEB App & Start The Server <br>
