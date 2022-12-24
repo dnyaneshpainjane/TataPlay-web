@@ -41,54 +41,26 @@ https://apkcow.com/ksweb-server-php-mysql-mod-apk/download/
  - TataPlay Zip <br> ( https://github.com/dnyaneshpainjane/Tata-Play-webplay/blob/main/TataPlay.zip?raw=true ) <br>
 
 • Locate & Extract all Files in LocalHost (Htdocs) Root Folder <br>
-• Put Your login details and press Login <br>
-
-```py
-http://localhost:8080/TataPlay/login.php?user=NUMBER&pass=PASSWORD
-```
-
 • Open KSWEB App & Start The Server <br>
-• Run login.php file for a first time <br>
-• Open [JIOTV WEB]
+• Go to following link using browser <br>
 ```py
-http://localhost:8080/jiotvweb/
+http://localhost:8080/TataPlay/
 ```
-• Click above link in any Browser . You Will See all Jio Channels . <br>
+• Put Your login details <br>
+
+• Click login . You Will See all Jio Channels . <br>
 • Click On Channel and Play <br>
 
+
 #### ♢ Method 2 :
-
-• In Player Put Links Format Like Below
-
-  ```py
-http://localhost:8080/jiotvweb/live.php?c=Channel_Name&q=Quality
-  ```
-
-```py
-http://localhost:8080/jiotvweb/live.php?c=And_Pictures_HD&q=800
-```
-  
-   • <b>Depending on Your Server Change Links<br></b><br> 
-   • This Script is free for USE and Modify</b><br>
-
-#### ♢ Method 3 :
 
 • In Tivimate or OTT Navigator Player Put Links Format Like Below
 
   ```py
-http://localhost:8080/jiotvweb/playlist.php
+http://localhost:8080/TataPlay/app/playlist.php
   ```
   
-   • TNow Enjoy with your Jio Channels.</b><br>
-
-#### 😛 Genrate ssoToken Here :
-
-- For This You Need JioID Number and Password
-
-[Jio Login Page] (http://jiologin.unaux.com)
- 
-- `user` = Username / Mobile No.
-- `pass` = Password
+   • Now Enjoy with your TataPlay Channels.</b><br>
 
 <br>
  
