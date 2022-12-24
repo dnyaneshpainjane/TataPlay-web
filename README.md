@@ -6,7 +6,7 @@
 <!-- DO NOT EDIT FILE AND ADD YOU NAME HERE AND PUBLISH -->
 <!-- © 2021 TechieSneh -->
 
-<h4 align='center'>📺 The PHP Script For Grabb Streaming Links and Play it , This Works Only on Android & Android TV Through LocalHost <br><br>🌟 Star This Repositry Befor Copying 😎<br>😠 Don't Remove Credits<br>Don't Edit This Script 😈<br> Script Still work if your Account is Suspended<br>Put Your Own Credentials In This Script</h4>
+<h4 align='center'>📺 The PHP Script For Grabb Streaming Links and Play it , This Works Only on Android & Android TV Through LocalHost <br><br>🌟 Star This Repositry Befor Copying 😎<br>😠 Don't Remove Credits<br>Don't Edit This Script 😈<br> 😍😍Script Still work if your Account is Suspended 😍😍<br> You can Watch only that channels that are subscribe to your account<br>Put Your Own Credentials In This Script</h4>
 <br>
 
 <h2>😇 Features :</h2>
