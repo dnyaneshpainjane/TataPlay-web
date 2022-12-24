@@ -1,4 +1,4 @@
-# Tata-Play-webplay
+
 <p align="center"><img src="https://github.com/dnyaneshpainjane/Tata-Play-webplay/blob/main/favicon.ico" width="180" height="100"></p>
 
 <h1 align='center'>✯ TATAPLAY ✯</h1>
@@ -12,7 +12,7 @@
 <h2>😇 Features :</h2>
 
 - HQ Streaming Free of Cost <br>
-- Will Works In 250, 400, 600, 800 in this Gives Qualities
+- Will Works In ALL Qualities
 - Web Play Supports
 - Works on Phone or PC Browser Perfect
 
@@ -98,15 +98,10 @@ http://localhost:8080/jiotvweb/playlist.php
 - This is Just For Educational Purpose
 - DO NOT Sell this Script, This is 💯% Free
 
-<h3>🤗 Meet Me : </h3>
-
-• For any Support Join Our Group [Techie Sneh](https://t.me/techiesneh)<br>
-• Or Contact at [techiesneh@protonmail.com](mailto:techiesneh@protonmail.com)
-
 <br>
 
 
 ---
-<h4 align='center'>© 2022 Techie Sneh</h4>
+<h4 align='center'>© 2022 Dnyanesh </h4>
 
 <!-- DO NOT REMOVE THIS CREDIT 🤬 🤬 -->
