@@ -48,7 +48,7 @@ http://localhost:8080/TataPlay/
 ```
 • Put Your login details <br>
 
-• Click login . You Will See all Jio Channels . <br>
+• Click login You Will See all subscribed Channels . <br>
 • Click On Channel and Play <br>
 
 
