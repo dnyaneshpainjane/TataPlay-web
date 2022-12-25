@@ -52,7 +52,7 @@ http://localhost:8080/TataPlay/
 • Click On Channel and Play <br>
 
 
-#### ♢ Method 2 :
+#### ♢ Method 2 :(NOT WORKING)
 
 • In Tivimate or OTT Navigator Player Put Links Format Like Below
 
