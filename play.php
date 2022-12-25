@@ -75,7 +75,7 @@
 					</div>
 
 					<!-- video player -->
-					<div class="col-12 col-xl-8">
+					<div class="col-12 col-xl-15">
 						
 						<!--Player Here-->
 						<div class="container">
