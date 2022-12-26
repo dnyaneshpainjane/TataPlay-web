@@ -38,7 +38,7 @@ https://apkcow.com/ksweb-server-php-mysql-mod-apk/download/
   ```
 
 • Then Download This Zip Files<br>
- - TataPlay Zip <br> ( https://github.com/dnyaneshpainjane/Tata-Play-webplay/blob/main/TataPlay.zip?raw=true ) <br>
+ - TataPlay Zip <br> ( https://github.com/dnyaneshpainjane/TataPlay-web/archive/refs/heads/main.zip ) <br>
 
 • Locate & Extract all Files in LocalHost (Htdocs) Root Folder <br>
 • Open KSWEB App & Start The Server <br>
