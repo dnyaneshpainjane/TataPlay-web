@@ -43,6 +43,9 @@ https://apkcow.com/ksweb-server-php-mysql-mod-apk/download/
 • Locate & Extract all Files in LocalHost (Htdocs) Root Folder <br>
 • Open KSWEB App & Start The Server <br>
 • Go to following link using browser <br>
+
+IF THERE IS ERROR IN PLAYING VIDEO FOLLOW BELOW BLOG <br>
+(https://appuals.com/fix-error-loading-media-file-not-played-chrome/#:~:text=The%20issue%20mainly%20occurs%20when,use%20the%20H264%20video%20codec.) <br>
 ```py
 http://localhost:8080/TataPlay/
 ```
