@@ -52,9 +52,6 @@ http://localhost:8080/TataPlay/
 • Click login You Will See all subscribed Channels . <br>
 • Click On Channel and Play <br>
 
-
-IF THERE IS ERROR IN PLAYING VIDEO FOLLOW BELOW BLOG <br>
-(https://appuals.com/fix-error-loading-media-file-not-played-chrome/#:~:text=The%20issue%20mainly%20occurs%20when,use%20the%20H264%20video%20codec.) <br>
 #### ♢ Method 2 :(NOT WORKING)
 
 • In Tivimate or OTT Navigator Player Put Links Format Like Below
